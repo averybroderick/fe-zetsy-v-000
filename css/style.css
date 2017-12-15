@@ -50,6 +50,7 @@ img {
 footer {
   color: #696969;
 	float: right;
+	margin: 4px;
 }
 
 /* Write all remaining styles here */
