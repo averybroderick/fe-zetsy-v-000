@@ -31,8 +31,11 @@ h1 {
 	font-family: 'Baskerville';
 	font-size: 75px;
 	color: #98ada6;
-	padding-bottom: 10px;
-	border-bottom: solid;
+}
+
+h2 {
+	font-size: 75px;
+	color: #98ada6;
 }
 
 #necklace {
