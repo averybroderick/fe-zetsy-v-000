@@ -49,6 +49,7 @@ img {
 
 footer {
   color: #696969;
+	position: relative;
 	float: right;
 	margin: 20px;
 }
