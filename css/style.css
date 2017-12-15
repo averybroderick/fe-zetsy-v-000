@@ -38,6 +38,10 @@ h2 {
 	color: rgb(106, 128, 123);
 }
 
+p {
+	color: grey;
+}
+
 #necklace {
 	border-style: solid;
 	border-color: #98ada6;
