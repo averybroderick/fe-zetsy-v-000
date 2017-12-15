@@ -58,3 +58,7 @@ footer {
 }
 
 /*////////// DYNAMIC //////////*/
+
+a {
+	text-decoration: none;
+}
