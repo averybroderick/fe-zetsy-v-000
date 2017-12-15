@@ -47,4 +47,11 @@ img {
 	border-color: #98ada6;
 }
 
+footer {
+  color: #696969;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
 /* Write all remaining styles here */
