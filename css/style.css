@@ -67,6 +67,10 @@ a:hover {
 	text-decoration: none;
 }
 
-.press:hover, h1:hover {
-	border: 5px solid #98ada6;
+.press:hover {
+	border: 5px solid grey;
+}
+
+h1:hover {
+	color: grey;
 }
