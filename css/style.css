@@ -42,13 +42,16 @@ p {
 	color: #696969;
 }
 
+.small {
+	font-size: 5px;
+}
+
 img {
 	border-style: solid;
 	border-color: #98ada6;
 }
 
 footer {
-  color: #696969;
   text-align: right;
 }
 
