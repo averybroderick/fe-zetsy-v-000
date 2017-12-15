@@ -36,6 +36,7 @@ h1 {
 }
 
 #necklace {
+	top: 0;
 	border-style: solid;
 	border-color: #98ada6;
 }
