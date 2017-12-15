@@ -49,7 +49,7 @@ img {
 
 footer {
   color: #696969;
-	right: 0;
+	float: right;
 }
 
 /* Write all remaining styles here */
