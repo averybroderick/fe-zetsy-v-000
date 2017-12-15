@@ -31,6 +31,7 @@ h1 {
 	font-family: 'Baskerville';
 	font-size: 75px;
 	color: #98ada6;
+	border-bottom: 1px solid #ccc;
 }
 
 h2 {
